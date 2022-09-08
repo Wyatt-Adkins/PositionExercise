@@ -99,9 +99,19 @@ body {
 #mind { position: fixed; right:0;}
 
 /* 7 */
-#reality{
-    position:absolute;
+#time{
+    position:fixed;
     right: 0px; 
     top: 0px;}
 /* 8 */ /* 9 */
-h1 {position: sticky; z-index: 3;}
+h1 {position: sticky; top: 0px;z-index: 3;}
+
+/* bonus */
+
+#reality {z-index: 3;}
+
+#soul {z-index: 2;}
+#mind {z-index: 1;}
+#time {z-index: 2;}
+
+
