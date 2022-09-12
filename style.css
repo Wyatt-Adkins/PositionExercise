@@ -109,10 +109,15 @@ h1 {position: sticky; top: 0px;z-index: 3;}
 
 /* bonus */
 
+/* 1 and 2 */
 #reality {z-index: 3;}
 
 #soul {z-index: 2;}
 #mind {z-index: 1;}
 #time {z-index: 2;}
+
+/* 3 , i fullly forgot to write this one at first */
+
+h2 {position: sticky; top: 65px;}
 
 
