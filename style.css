@@ -74,8 +74,9 @@ body {
     }
 
 /* start below this line */
-/* 1 */
 
+/* 1 */
+/* {position:static} */
 /* 2 */
     #power {position: relative;
     right: 225px; }
